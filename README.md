@@ -15,11 +15,4 @@ Try out the live demo of the web application [here](https://huggingface.co/space
 ## Model
 To access the BERT model trained on custom data of reviews, click [here](https://huggingface.co/vansh02062002/custom-sentiment-model) 
 
-## Installation
 
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/srivastavavansh94/Sentimenet-Analyzer-using-BERT.git
-   cd Sentimenet-Analyzer-using-BERT
